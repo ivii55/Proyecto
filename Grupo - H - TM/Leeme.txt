@@ -1,10 +1,7 @@
-Integrante: Ballester Ivonne
+Integrante: Ballester Ivonne,Dominguez Martin.
 
 titulo del tema: Barco Hundido
 
-Una vez sabiado que se debia realizar la investigacion de un nuevo lenguaje de pprogramacion
-para desarrollar un videojuego, comenze a ideas del tipo de juego que desearia desarrolla.
-Una vez que decidi que juego llevare a cabo y en lenguaje opte por un videojuego en 
-donde un barco tiene que hundir a otros barcos de diferente tamaños, por eso lo hare
-en Python.
-  
+Una vez sabiado que se debia realizar la investigacion de un nuevo lenguaje de programacion  para desarrollar un videojuego, se comenzo a dar ideas del tipo de juego que se  desearia desarrollar.
+
+Una vez que se decidio que juego se llevaria a cabo y el lenguaje optado por un videojuego en donde un barco  de gran porte tiene que hundir a otros barcos de diferentes tamaños, por lo que se hara n Python.
